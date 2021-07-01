@@ -2,10 +2,11 @@
 - 👀 I’m interested in ...
 cloud computing
 - 🌱 I’m currently learning ...
-amazon web services, bash shell scripting, python
+amazon web services, python, kubernetes, terraform
 - 💞️ I’m looking to collaborate on ...
+interesting projects
 - 📫 How to reach me ...
-
+https://www.linkedin.com/in/kilian-darius-jurke-848a3a214/
 
 <!---
 kilianjurke/kilianjurke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
